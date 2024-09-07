@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="3577">Zastosuj zmiany (Ctrl+S)</string>
+	<string name="3578">Poprzednia różnica (Ctrl+P)</string>
+	<string name="3579">Następna różnica (Ctrl+N)</string>
+	<string name="3580">Wybierz tabelę (Ctrl+T)</string>
+	<string name="3581">Usuń podobne wiersze (Ctrl+H)</string>
+	<string name="3582">Źródło (Ctrl+L)</string>
+	<string name="3583">Cel (Ctrl+R)</string>
+	<string name="3584">Dołącz do docelowej (Ctrl+Right)</string>
+	<string name="3585">Dołącz do źródłowej (Ctrl+Left)</string>
+	<string name="3586">Podgląd SQL (Ctrl+Q)</string>
+	<string name="3587">Wycofaj zmiany (Ctrl+Z)</string>
+	<string name="3588">Wycofaj zaznaczone zmiany (Ctrl+Shift+Z)</string>
+	<string name="3589">Stop (Ctrl+Enter)</string>
+	<string name="3590">Stop (Ctrl+S)</string>
+	<string name="3591">Wykonuję zapytania%.*s</string>
+	<string name="3592">Porównaj (Ctrl+Enter)</string>
+	<string name="3593">Pauza (Ctrl+P)</string>
+	<string name="3594">Pauza (Ctrl+N)</string>
+</resources>
