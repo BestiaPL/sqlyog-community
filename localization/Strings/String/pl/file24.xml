@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="3623">Zmień nazwę</string>
+	<string name="3624">Zmień nazwę zakładki</string>
+	<string name="3625">Przywracanie sesji</string>
+	<string name="3626">&amp;Przywracanie sesji przy uruchomieniu</string>
+	<string name="3627">&amp;Zmień nazwę	Alt+F2</string>
+	<string name="3628">Z&amp;mień nazwę zakładki	Alt+F2</string>
+</resources>
